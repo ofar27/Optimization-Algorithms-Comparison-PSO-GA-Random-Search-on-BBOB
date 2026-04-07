@@ -1,0 +1,4 @@
+algo_a,algo_b,wins_a,wins_b,ties,wilcoxon_stat,p_value
+PSO,RANDOMSEARCH-5,5,0,0,0.0,0.0625
+PSO,GA,2,3,0,6.0,0.8125
+GA,RANDOMSEARCH-5,5,0,0,0.0,0.0625
